@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "956475779860",
+    "firebase_url": "https://pushnotification-438bc.firebaseio.com",
+    "project_id": "pushnotification-438bc",
+    "storage_bucket": "pushnotification-438bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956475779860:android:48095a555c9f79cd",
+        "android_client_info": {
+          "package_name": "com.example.kunal.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956475779860-1f7f52vv6tr562cm53ijnq7ku2769hkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDciTemhc0f2xVAIVGNPOn1zvXBdHaESyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
